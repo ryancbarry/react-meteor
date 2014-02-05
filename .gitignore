@@ -5,3 +5,4 @@ browser-bundle.js
 npm-debug.log
 *~
 lib/
+.DS_Store

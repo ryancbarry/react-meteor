@@ -4,7 +4,7 @@
   "description": "React Meteor bindings",
   "main": "lib/ReactMeteor.js",
   "dependencies": {
-    "react": "~0.8",
+    "react-tools": "~0.8",
     "react-raf-batching": "~0.0.0"
   },
   "devDependencies": {
